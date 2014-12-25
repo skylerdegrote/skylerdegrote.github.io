@@ -1,0 +1,143 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{background-color:#6E6C6C;}
+
+a:link    {color:#80D1EC; background-color:transparent; text-decoration:none}
+a:visited {color:#80D1EC; background-color:transparent; text-decoration:bold}
+a:hover   {color:#80D1EC; background-color:transparent; text-decoration:underline}
+a:active  {color:#80D1EC; background-color:transparent; text-decoration:underline}
+
+a:link.colorchange    {color:#6E6C6C; background-color:transparent; text-decoration:none}
+a:visited.colorchange {color:#6E6C6C; background-color:transparent; text-decoration:bold}
+a:hover.colorchange   {color:#6E6C6C; background-color:transparent; text-decoration:underline}
+a:active.colorchange  {color:#6E6C6C; background-color:transparent; text-decoration:underline}
+
+
+h1{}
+
+
+h2{text-size:24pt;
+text-align:center;
+text-decoration:underline;}
+
+h3{text-align:center;
+font-size:20px;}
+
+.clearfix{clear:both;}
+
+.row{width:100%;}
+
+.col-10{width: 100%;
+float:left;
+text-align:center;}
+
+.col-9{width: 90%;
+float:left;
+text-align:center;}
+
+.col-8{width: 80%;
+float:left;
+text-align:center;}
+
+.col-7{width: 70%;
+float:left;
+text-align:center;}
+
+.col-6{width: 60%;
+float:left;
+text-align:center;}
+
+.col-5{width: 50%;
+float:left;
+text-align:center;}
+
+.col-4{width: 40%;
+float:left;
+text-align:center;}
+
+.col-3{width: 30%;
+float:left;
+text-align:center;}
+
+.col-2{width: 20%;
+float:left;
+text-align:center;}
+
+.col-1{width: 10%;
+float:left;
+text-align:center;
+padding-top:30px;}
+
+
+.contact{height: 25px;
+padding: 25px;
+background-color:#80D1EC;
+color:#6E6C6C;
+font-size:14px
+margin-top:20px;;
+}
+
+.aboutme{height:100px;
+background-color:#6E6C6C;
+color:#80D1EC;
+padding: 25px;
+margin-top:25px;
+margin-bottom:25px;
+font-size:18px;}
+
+.workexperience{height:675px;
+background-color:#80D1EC;
+color:#6E6C6C;
+padding: 25px;
+margin-top:25px;
+margin-bottom:25px;}
+
+.education{height:250px;
+background-color:#6E6C6C;
+color:#80D1EC;
+padding: 25px;
+margin-top:25px;
+margin-bottom:25px;
+}
+
+
+.webdesign{height:300px;
+background-color:#80D1EC;
+color:#6E6C6C;
+padding: 25px;
+margin-top:25px;
+margin-bottom:25px;}
+
+.specialties{height:300px;
+background-color:#6E6C6C;
+color:#80D1EC;
+padding: 25px;
+margin-top:25px;
+margin-bottom:25px;}
+
+.software{height:300px;
+background-color:#80D1EC;
+color:#6E6C6C;
+padding: 25px;
+margin-top:25px;
+margin-bottom:25px;}
+
+.otherexperiences{height:250px;
+background-color:#6E6C6C;
+color:#80D1EC;
+padding: 25px;
+margin-top:25px;
+margin-bottom:25px;}
+
+.accomplishments{height:250px;
+background-color:#80D1EC;
+color:#6E6C6C;
+padding: 25px;
+margin-top:25px;
+margin-bottom:25px;}
+
+
+
+
+

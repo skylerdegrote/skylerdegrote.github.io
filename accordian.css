@@ -1,0 +1,101 @@
+.accordion{
+	width:940px;
+	overflow:hidden;
+	list-style:none;
+	margin-bottom:10px;
+	text-shadow:1px 1px 1px rgba(0,0,0,0.25);
+	background:#80D1EC;
+	
+	/*-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	-o-border-radius:10px;
+	border-radius:10px;*/
+}
+.accordion li{
+	float:left;
+	width:20%;
+	overflow:hidden;
+	height:250px;
+	-moz-transition:all 0.2s ease-out;
+	-webkit-transition:all 0.2s ease-out;
+	-o-transition:all 0.2s ease-out;
+	transition:all 0.2s ease-out;
+	-moz-transition-delay:0.15s;
+	-webkit-transition-delay:0.15s;
+	-o-transition-delay:0.15s;
+	transition-delay:0.15s;
+}
+/*.accordion li:first-of-type{
+	-moz-border-radius:10px 0 0 10px;
+	-webkit-border-radius:10px 0 0 10px;
+	-o-border-radius:10px 0 0 10px;
+	border-radius:10px 0 0 10px;
+}
+.accordion li:last-of-type{
+	-moz-border-radius:0 10px 10px 0;
+	-webkit-border-radius:0 10px 10px 0;
+	-o-border-radius:0 10px 10px 0;
+	border-radius:0 10px 10px 0;*/
+}
+.accordion div{
+	
+}
+.accordion:hover li{
+	width:30%;
+}
+.accordion li:hover{
+	width:60%;
+}
+.slide-01	{ background:#80D1EC; color:#6E6C6C; }
+.slide-02	{ background:#80D1EC; color:#6E6C6C; }
+.slide-03	{ background:#80D1EC; color:#6E6C6C; }
+.slide-04	{ background:#80D1EC; color:#6E6C6C; }
+.slide-05	{ background:#80D1EC; color:#6E6C6C;}
+.slide-06	{ background:#80D1EC; color:#6E6C6C;}
+.slide-07	{ background:#80D1EC; color:#6E6C6C;}
+
+
+
+
+
+
+/*------------------------------------*\
+	VERTICAL
+\*------------------------------------*/
+#vertical{
+	width:940px;
+	height:675px;
+	background:#80D1EB;
+}
+#vertical li{
+	height:10%;
+	width:100%;
+	-moz-transition:all 0.2s ease-out;
+	-webkit-transition:all 0.2s ease-out;
+	-o-transition:all 0.2s ease-out;
+	transition:all 0.2s ease-out;
+	-moz-transition-delay:0.15s;
+	-webkit-transition-delay:0.15s;
+	-o-transition-delay:0.15s;
+	transition-delay:0.15s;
+}
+#vertical li:first-of-type{
+	-moz-border-radius:10px 10px 0 0;
+	-webkit-border-radius:10px 10px 0 0;
+	-o-border-radius:10px 10px 0 0;
+	border-radius:10px 10px 0 0;
+}
+#vertical li:last-of-type{
+	-moz-border-radius:0 0 10px 10px;
+	-webkit-border-radius:0 0 10px 10px;
+	-o-border-radius:0 0 10px 10px;
+	border-radius:0 0 10px 10px;
+}
+#vertical:hover li{
+	height:10%;
+	width:100%;
+}
+#vertical li:hover{
+	height:37%;
+	width:100%;
+}
