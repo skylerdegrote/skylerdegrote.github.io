@@ -20,7 +20,7 @@ h1 {
     width: 30px;
     display: inline-block;
     float: left;
-    border: 1px solid #1a1a1a;
+    border: 2px solid #1a1a1a;
     padding:40px;
     margin-top: 20px;
     background-image: url("../images/logo_placeholder.png");
