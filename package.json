@@ -1,0 +1,11 @@
+{
+  "name": "docent_edu_project",
+  "version": "1.0.0",
+  "description": "group project at prime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skyler DeGrote",
+  "license": "ISC"
+}
